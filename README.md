@@ -8,15 +8,6 @@ Currently supports the following instructions:
     * LB, LH, LW, LWU, LBU, LHU, SB, SH, SW, ADDI, ANDI, ORI, XORI, LUI, SLTI, BEQ, BNE, J, JAL
 * J-Type
     * JR, JALR
- 
-
-## Project compilation
-
-
-
-## Usage
-
-
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
